@@ -1,2 +1,4 @@
-# in-class-real-1-11
+# this is my first repo :)
 small repo for in class demo
+
+nothing much really 
